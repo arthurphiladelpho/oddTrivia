@@ -1,1 +1,1 @@
-Sample Trivia Skill for Amazon's Alexa.
+***Sample Trivia Skill for Amazon's Alexa.***
